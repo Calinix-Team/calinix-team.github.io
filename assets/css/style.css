@@ -78,7 +78,7 @@ section {
 .breadcrumbs {
   padding: 15px 0;
   background: orange;
-  min-height: 40px;
+  height: 45px;
   margin-top: 82px;
   color: #fff;
 }
@@ -1526,12 +1526,12 @@ section {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 .blog .entry .entry-img {
-  max-height: 440px;
+  max-height: 640px;
   margin: -30px -30px 20px -30px;
   overflow: hidden;
 }
 .blog .entry .entry-title {
-  font-size: 28px;
+  font-size: 38px;
   font-weight: bold;
   padding: 0;
   margin: 0 0 20px 0;
