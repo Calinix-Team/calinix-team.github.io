@@ -126,6 +126,18 @@
 a{
     text-decoration: none;
 }
+
+@media (max-width: 768px) {
+  #het{
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 1024px) {
+  #het{
+    font-size: 20px;
+  }
+}
   
   /* Media Queries */
   @media (max-width: 750px) {
