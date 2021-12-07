@@ -17,6 +17,8 @@
     font-family: 'Fira Sans', sans-serif;
     line-height: 1.7;
     display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
     flex-direction: column;
     min-height: 100vh;
     justify-content: center;
@@ -153,9 +155,24 @@ a{
       width: auto;
     }
   
-    .main-heading, .additional-heading {
+    /* .main-heading, .additional-heading {
       font-size: 1.3rem;
     }
+
+    h6{
+      font-size: 0.9rem;
+    }
+
+    h2{
+      font-size: 1.2rem
+    }
+
+    h3{
+      font-size: 1.1rem
+    }
+    h4{
+      font-size: 1.rem
+    } */
   }
 
   .header {
